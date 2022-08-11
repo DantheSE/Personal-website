@@ -1,0 +1,77 @@
+
+
+.bodyhead {
+  background-color: lightcyan;
+}
+
+.firstimp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cloud1 {
+  position: relative;
+  bottom: 180px;
+  left: 470px;
+}
+.cloud2 {
+  position: relative;
+  left: 520px;
+  bottom: 150px;
+}
+
+h1 {
+  font-family: "Sacramento";
+  font-size: 90px;
+  margin: 50px 0 auto;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+.para{
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 55px;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.scenery {
+  margin-left: 90px;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.profpic {
+  width: 180px;
+  margin-left: auto;
+  margin-left: auto;
+}
+.webdev, .teampic, .bestpractices{
+  width: 150px;
+  float: left;
+  padding-right: 25px;
+}
+
+.skill-row1, .skill-row2, .skill-row3{
+  font-size: 20px;
+  margin-left: 15px;
+ margin-bottom: 130px;
+}
+
+.contact-me{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #11999e;
+}
